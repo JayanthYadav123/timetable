@@ -14,6 +14,7 @@ Add your timetable
 Execute the program
 
 # CODE
+~~~
 <!DOCTYPE html>
 <html>
 
@@ -83,4 +84,8 @@ Execute the program
    </body>
 </html>
 </html>
-# OUPUT
+~~~
+# OUPUT:
+![OUTPUT](/IMAGES/IMG.png)
+# RESULT:
+Thus the program to create a timetable using HTML is completed sucessfully.
